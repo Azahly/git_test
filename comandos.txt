@@ -1,1 +1,5 @@
 git clone https://github.com/leerob/Space_Invaders.git
+
+git config --global user.email sam@google.com
+
+git init -> para inicializar repo
